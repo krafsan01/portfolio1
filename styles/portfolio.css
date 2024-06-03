@@ -149,3 +149,26 @@ main {
   margin-top: 50px;
   text-align: center;
 }
+.contact {
+  display: flex;
+  gap: 100px;
+  background-color: #fff8f3;
+  padding: 130px 200px;
+}
+.contact .section-title {
+  text-align: left;
+}
+.contact-des {
+  margin-bottom: 20px;
+}
+.contact input,
+textarea {
+  margin-bottom: 24px;
+  border-radius: 5px;
+  border: none;
+  width: 100%;
+  padding: 18px 30px;
+}
+input {
+  height: 64px;
+}
